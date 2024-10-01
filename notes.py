@@ -1,6 +1,3 @@
-import webbrowser
-import os
-import time
 from datetime import datetime
 
 current_time = datetime.now().strftime("%m/%d/%y %I:%M")
